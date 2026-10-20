@@ -1,0 +1,531 @@
+id_alumno,edad,programa,modalidad,canal_ingreso,trabaja,beca,horas_estudio_sem,asistencia_pct,entregas_a_tiempo_pct,dias_activo_plataforma_mes,promedio_parcial,segmento,abandono
+AL0141,22,Diplomado,En línea,Recomendación,Sí,No,8.3,66.7,67.2,11,7.0,Intermitente,No
+AL0399,35,Curso corto,En línea,Recomendación,Sí,Sí,4.8,86.0,58.4,11,7.8,Intermitente,No
+AL0007,29,Curso corto,Híbrida,Redes sociales,Sí,Sí,2.6,67.1,57.6,9,8.0,Sobrecargado,No
+AL0335,30,Maestría,Híbrida,Recomendación,No,Sí,11.1,95.8,80.1,23,7.5,Comprometido,No
+AL0323,28,Maestría,Híbrida,Recomendación,Sí,No,15.6,112.5,81.2,24,8.0,Comprometido,No
+AL0083,21,Maestría,Híbrida,Sitio web,Sí,Sí,1.1,74.9,60.5,9,,Sobrecargado,No
+AL0226,34,Diplomado,Híbrida,Recomendación,No,No,0.0,56.4,24.5,5,5.6,Desconectado,No
+AL0497,44,Maestría,En línea,Recomendación,No,No,7.9,79.7,77.4,12,7.8,Intermitente,No
+AL0168,21,Maestría,Presencial,,Sí,Sí,,130.0,55.5,10,8.0,Sobrecargado,No
+AL0102,26,Diplomado,Híbrida,Sitio web,Sí,Sí,5.3,73.6,45.3,8,7.9,Sobrecargado,Sí
+AL0011,24,Diplomado,En línea,Redes sociales,No,No,8.2,86.4,74.0,12,8.8,Intermitente,No
+AL0483,41,Maestría,En línea,Recomendación,No,Sí,3.2,73.0,62.1,14,7.8,Intermitente,No
+AL0078,34,Maestría,En línea,Sitio web,Sí,No,7.3,82.6,89.1,11,8.9,Sobrecargado,No
+AL0300,21,Maestría,Presencial,Empresa,Sí,No,9.6,66.1,84.8,17,7.7,Intermitente,Sí
+AL0319,35,Diplomado,En línea,Empresa,No,No,12.6,98.3,100.0,20,9.5,Comprometido,Sí
+AL0470,32,Diplomado,Presencial,Redes sociales,No,No,9.3,80.6,81.9,16,9.0,Intermitente,No
+AL0003,26,Maestría,Presencial,Empresa,No,No,4.2,50.5,43.4,9,7.1,Desconectado,Sí
+AL0159,39,Curso corto,Híbrida,Sitio web,Sí,Sí,4.4,71.2,83.7,10,8.1,Sobrecargado,No
+AL0258,25,Maestría,En línea,Recomendación,No,No,9.7,88.2,88.7,21,9.2,Comprometido,No
+AL0512,33,Maestría,En línea,Redes sociales,Sí,No,0.9,74.4,67.7,17,8.6,Sobrecargado,Sí
+AL0519,25,Maestría,En línea,Redes sociales,Sí,No,11.3,79.5,73.9,19,7.8,Comprometido,No
+AL0447,25,Maestría,En línea,Recomendación,No,No,1.1,48.3,32.1,7,6.2,Desconectado,No
+AL0105,36,Diplomado,En línea,Recomendación,Sí,No,2.4,68.1,66.5,12,7.3,Sobrecargado,Sí
+AL0149,21,Diplomado,Presencial,Sitio web,No,No,2.7,92.4,72.5,14,8.4,Intermitente,No
+AL0336,21,Diplomado,En línea,Redes sociales,Sí,No,5.1,93.3,59.4,10,8.3,Intermitente,No
+AL0505,38,Diplomado,En línea,Redes sociales,No,No,8.6,76.5,62.4,18,7.5,Intermitente,Sí
+AL0181,27,Curso corto,Híbrida,Recomendación,No,No,1.6,39.5,21.6,3,6.2,Desconectado,Sí
+AL0091,21,Diplomado,Híbrida,Recomendación,No,No,,99.7,100.0,22,9.1,Comprometido,No
+AL0196,26,Curso corto,En línea,Recomendación,Sí,No,9.9,71.8,86.8,25,8.1,Comprometido,No
+AL0228,33,Maestría,Presencial,Empresa,Sí,No,7.7,74.7,57.8,15,8.6,Intermitente,Sí
+AL0074,35,Curso corto,Presencial,Redes sociales,Sí,No,12.7,99.4,91.6,21,10.0,Comprometido,No
+AL0056,25,Maestría,En línea,,Sí,No,3.8,62.7,63.8,11,8.2,Sobrecargado,No
+AL0507,34,Maestría,En línea,Recomendación,Sí,No,12.9,100.0,82.1,19,,Comprometido,No
+AL0347,27,Diplomado,En línea,,Sí,No,2.9,51.0,37.7,0,6.9,Desconectado,Sí
+AL0031,31,Maestría,En línea,Redes sociales,Sí,No,7.9,73.5,44.1,11,6.4,Sobrecargado,Sí
+AL0076,34,Curso corto,Híbrida,Recomendación,Sí,Sí,12.5,87.8,85.2,20,8.7,Comprometido,No
+AL0341,41,Maestría,Híbrida,Sitio web,Sí,Sí,11.2,91.0,75.7,24,9.1,Comprometido,No
+AL0071,22,Diplomado,En línea,Recomendación,No,No,12.5,90.8,88.2,25,10.0,Comprometido,No
+AL0010,21,Curso corto,En línea,Redes sociales,No,No,5.6,78.0,75.5,15,8.4,Intermitente,No
+AL0223,27,Maestría,Presencial,Recomendación,Sí,No,6.8,62.0,52.2,10,7.7,Sobrecargado,No
+AL0185,37,Maestría,En línea,Sitio web,Sí,No,2.7,69.2,79.2,13,8.6,Sobrecargado,Sí
+AL0457,27,Curso corto,Híbrida,,Sí,Sí,5.4,46.7,38.9,2,6.6,Desconectado,No
+AL0290,21,Maestría,En línea,Recomendación,No,No,9.3,70.8,83.2,27,8.3,Comprometido,No
+AL0205,35,Diplomado,En línea,Recomendación,No,Sí,11.9,99.3,78.9,21,9.5,Comprometido,No
+AL0007,29,Curso corto,Híbrida,Redes sociales,Sí,Sí,2.6,67.1,57.6,9,8.0,Sobrecargado,No
+AL0511,29,Diplomado,Presencial,Sitio web,No,No,12.9,97.9,80.8,23,9.5,Comprometido,No
+AL0239,32,Maestría,En línea,Recomendación,No,No,14.0,92.7,94.1,20,9.6,Comprometido,No
+AL0302,31,Maestría,Presencial,Sitio web,Sí,Sí,,86.9,86.1,27,8.9,Comprometido,No
+AL0133,38,Diplomado,En línea,Redes sociales,No,No,13.4,85.7,54.0,10,8.2,Intermitente,No
+AL0080,33,Curso corto,En línea,Redes sociales,Sí,No,3.4,77.8,63.2,11,7.7,Sobrecargado,No
+AL0514,26,Diplomado,Presencial,,Sí,No,10.7,100.0,100.0,26,10.0,Comprometido,No
+AL0168,21,Maestría,Presencial,,Sí,Sí,,130.0,55.5,10,8.0,Sobrecargado,No
+AL0477,21,Diplomado,En línea,,No,Sí,4.4,69.2,71.6,16,7.2,Intermitente,No
+AL0090,27,Diplomado,Presencial,Sitio web,No,No,7.6,88.4,73.8,12,8.4,Intermitente,No
+AL0366,32,Diplomado,En línea,Sitio web,Sí,No,5.3,64.0,76.2,13,7.8,Intermitente,No
+AL0269,27,Maestría,En línea,Recomendación,No,Sí,10.6,92.8,92.0,26,8.7,Comprometido,No
+AL0448,39,Maestría,En línea,Sitio web,No,Sí,7.8,67.7,72.0,18,8.3,Intermitente,No
+AL0186,25,Diplomado,En línea,Sitio web,Sí,Sí,2.9,64.8,71.3,11,7.4,Sobrecargado,No
+AL0472,33,Curso corto,En línea,Recomendación,No,Sí,6.3,73.1,57.4,16,8.1,Intermitente,No
+AL0358,30,Diplomado,Híbrida,Sitio web,Sí,No,4.8,74.4,44.5,8,6.1,Sobrecargado,No
+AL0219,25,Maestría,En línea,Recomendación,No,Sí,3.7,52.6,57.7,10,6.9,Desconectado,Sí
+AL0517,34,Maestría,Híbrida,Recomendación,Sí,No,9.4,85.3,97.8,23,8.4,Comprometido,No
+AL0348,26,Maestría,En línea,Redes sociales,No,No,19.9,84.0,81.4,23,9.0,Comprometido,No
+AL0288,29,Maestría,En línea,Redes sociales,Sí,Sí,7.1,70.0,78.6,12,8.4,Intermitente,No
+AL0073,33,Diplomado,Presencial,Redes sociales,No,No,1.8,48.1,32.5,11,5.0,Desconectado,Sí
+AL0520,31,Curso corto,En línea,Recomendación,Sí,Sí,3.2,62.6,54.0,14,8.4,Sobrecargado,No
+AL0155,35,Maestría,Presencial,Redes sociales,Sí,No,9.2,85.0,86.7,27,8.4,Comprometido,No
+AL0118,21,Maestría,En línea,Sitio web,Sí,No,5.8,70.5,63.9,11,8.0,Sobrecargado,No
+AL0069,25,Diplomado,Híbrida,Redes sociales,Sí,Sí,10.4,80.7,94.0,20,8.5,Comprometido,No
+AL0298,24,Maestría,Híbrida,Redes sociales,Sí,Sí,6.5,68.4,62.2,10,6.8,Sobrecargado,Sí
+AL0064,32,Diplomado,Presencial,Redes sociales,Sí,No,4.1,73.5,72.6,8,7.4,Sobrecargado,No
+AL0403,37,Curso corto,En línea,Empresa,Sí,No,4.3,68.3,60.9,6,8.5,Sobrecargado,No
+AL0210,23,Maestría,Presencial,Recomendación,Sí,No,6.4,82.5,65.1,7,7.7,Intermitente,No
+AL0077,21,Curso corto,Híbrida,Sitio web,No,No,8.4,100.0,97.3,21,9.1,Comprometido,No
+AL0183,34,Curso corto,Híbrida,Sitio web,No,No,8.6,74.1,56.0,11,6.6,Intermitente,Sí
+AL0034,29,Maestría,En línea,Sitio web,Sí,No,5.9,78.9,73.4,13,7.8,Intermitente,No
+AL0079,30,Diplomado,En línea,Redes sociales,Sí,No,10.1,82.0,52.2,16,7.0,Intermitente,Sí
+AL0085,32,Maestría,Presencial,Redes sociales,No,No,9.3,97.2,100.0,23,8.6,Comprometido,No
+AL0001,33,Maestría,Presencial,Redes sociales,Sí,No,0.3,75.0,75.2,7,9.0,Sobrecargado,No
+AL0012,30,Curso corto,Híbrida,Empresa,No,No,0.0,57.5,19.3,3,5.5,Desconectado,Sí
+AL0502,35,Maestría,En línea,Recomendación,No,No,1.9,37.9,44.2,5,6.0,Desconectado,No
+AL0023,30,Diplomado,En línea,Recomendación,Sí,Sí,0.0,55.8,36.4,5,7.3,Desconectado,Sí
+AL0272,27,Maestría,En línea,Redes sociales,No,No,16.3,94.4,72.5,19,8.4,Comprometido,No
+AL0235,27,Maestría,En línea,Empresa,Sí,No,1.5,50.4,52.1,3,6.5,Desconectado,No
+AL0501,37,Maestría,Híbrida,Redes sociales,Sí,No,6.1,54.5,62.9,14,7.9,Sobrecargado,No
+AL0474,31,Curso corto,Híbrida,Recomendación,Sí,Sí,12.6,88.0,98.6,23,8.6,Comprometido,No
+AL0368,37,Maestría,En línea,Empresa,Sí,No,0.6,80.0,60.3,16,8.8,Sobrecargado,Sí
+AL0193,31,Maestría,En línea,Sitio web,Sí,Sí,11.4,89.1,91.7,22,9.3,Comprometido,No
+AL0019,28,Curso corto,Híbrida,Redes sociales,Sí,No,2.3,65.5,67.7,10,7.8,Sobrecargado,No
+AL0421,33,Diplomado,Híbrida,Redes sociales,Sí,No,0.0,79.0,54.1,9,7.4,Sobrecargado,Sí
+AL0407,39,Diplomado,En línea,Redes sociales,Sí,Sí,17.2,85.7,74.0,20,8.1,Comprometido,No
+AL0016,31,Diplomado,Híbrida,Redes sociales,Sí,No,14.0,88.8,78.2,22,7.6,Comprometido,No
+AL0238,28,Diplomado,Híbrida,Recomendación,Sí,No,5.9,76.2,46.5,18,6.4,Sobrecargado,No
+AL0040,32,Diplomado,Presencial,Empresa,Sí,Sí,0.0,70.9,37.9,5,6.4,Sobrecargado,No
+AL0485,29,Maestría,Híbrida,Sitio web,Sí,No,13.8,95.6,91.3,24,9.2,Comprometido,No
+AL0047,31,Maestría,Híbrida,Recomendación,Sí,No,6.6,77.5,53.8,11,7.5,Intermitente,No
+AL0094,30,Maestría,En línea,Recomendación,No,No,11.6,68.8,71.5,10,7.6,Intermitente,No
+AL0317,29,Maestría,Híbrida,Recomendación,Sí,No,7.8,92.9,63.1,6,7.5,Intermitente,Sí
+AL0173,27,Maestría,En línea,Empresa,No,No,12.7,100.0,69.2,19,8.3,Comprometido,No
+AL0435,31,Maestría,Presencial,Sitio web,No,No,16.1,89.8,100.0,20,9.3,Comprometido,No
+AL0463,30,Diplomado,Híbrida,Recomendación,No,No,,52.5,28.3,9,6.1,Desconectado,No
+AL0342,41,Maestría,En línea,Redes sociales,No,Sí,6.8,45.0,42.2,3,6.0,Desconectado,Sí
+AL0432,38,Curso corto,En línea,Recomendación,Sí,No,4.0,67.4,57.6,12,8.8,Sobrecargado,No
+AL0132,26,Maestría,En línea,Sitio web,Sí,No,6.0,49.5,34.1,6,6.2,Desconectado,Sí
+AL0339,30,Maestría,En línea,Empresa,No,Sí,15.6,88.9,100.0,21,10.0,Comprometido,No
+AL0515,26,Maestría,En línea,Sitio web,No,Sí,7.9,83.7,100.0,23,8.6,Comprometido,No
+AL0138,36,Diplomado,Híbrida,Recomendación,Sí,No,6.5,78.0,79.9,12,8.4,Intermitente,No
+AL0363,21,Curso corto,Presencial,Redes sociales,Sí,No,8.4,70.1,100.0,21,9.5,Comprometido,No
+AL0418,32,Maestría,En línea,Redes sociales,Sí,Sí,7.6,66.5,69.1,4,7.0,Sobrecargado,Sí
+AL0518,36,Maestría,En línea,Empresa,Sí,Sí,4.1,76.0,55.1,8,8.4,Sobrecargado,Sí
+AL0070,23,Maestría,En línea,Recomendación,No,No,8.4,83.2,67.8,14,8.3,Intermitente,Sí
+AL0371,35,Diplomado,En línea,Sitio web,Sí,No,3.9,62.7,64.4,15,,Sobrecargado,Sí
+AL0313,21,Maestría,En línea,Sitio web,No,No,10.6,84.4,94.3,21,9.2,Comprometido,No
+AL0370,38,Maestría,Híbrida,,No,Sí,0.5,50.7,30.3,4,6.6,Desconectado,Sí
+AL0376,21,Maestría,Híbrida,Recomendación,No,No,7.3,78.0,100.0,21,7.7,Comprometido,No
+AL0174,28,Maestría,Híbrida,Redes sociales,Sí,No,0.2,45.9,41.4,0,5.4,Desconectado,Sí
+AL0332,21,Curso corto,Híbrida,Recomendación,Sí,Sí,13.0,91.0,100.0,16,9.0,Comprometido,No
+AL0411,23,Diplomado,En línea,Recomendación,Sí,No,1.3,76.0,80.0,10,9.1,Sobrecargado,No
+AL0372,21,Diplomado,En línea,Sitio web,No,Sí,12.7,87.6,84.2,17,8.0,Comprometido,No
+AL0125,21,Maestría,En línea,Redes sociales,No,No,10.5,88.7,100.0,19,9.9,Comprometido,No
+AL0156,27,Maestría,En línea,Recomendación,Sí,No,5.5,69.3,47.5,7,7.1,Sobrecargado,No
+AL0440,34,Maestría,En línea,Empresa,Sí,Sí,9.4,92.3,85.8,11,9.1,Intermitente,Sí
+AL0363,21,Curso corto,Presencial,Redes sociales,Sí,No,8.4,70.1,100.0,21,9.5,Comprometido,No
+AL0150,34,Maestría,En línea,Redes sociales,Sí,No,12.4,89.7,90.6,24,10.0,Comprometido,No
+AL0369,21,Maestría,En línea,Recomendación,Sí,No,11.0,84.3,93.5,20,9.2,Comprometido,No
+AL0087,21,Maestría,En línea,Sitio web,Sí,Sí,9.0,75.6,71.3,8,8.1,Sobrecargado,Sí
+AL0312,21,Maestría,Híbrida,Redes sociales,No,No,6.5,63.0,63.6,10,7.0,Intermitente,No
+AL0349,35,Curso corto,Híbrida,Empresa,No,No,9.1,88.6,72.0,12,8.5,Intermitente,No
+AL0285,25,Curso corto,Presencial,Recomendación,Sí,No,9.2,84.0,76.4,12,10.0,Intermitente,Sí
+AL0465,28,Curso corto,En línea,Redes sociales,Sí,No,6.7,80.6,72.5,8,,Intermitente,No
+AL0361,34,Maestría,Presencial,Recomendación,No,No,3.7,59.8,24.2,0,,Desconectado,No
+AL0509,38,Diplomado,Híbrida,Sitio web,Sí,Sí,6.1,76.6,75.0,14,7.6,Intermitente,No
+AL0415,35,Curso corto,En línea,Empresa,No,No,10.4,79.9,85.5,24,10.0,Comprometido,No
+AL0020,24,Diplomado,En línea,Recomendación,Sí,No,9.2,84.4,78.1,7,7.3,Intermitente,Sí
+AL0357,24,Maestría,Híbrida,Recomendación,Sí,Sí,4.0,72.9,54.2,14,5.8,Sobrecargado,Sí
+AL0057,24,Maestría,Presencial,Recomendación,No,No,,79.8,74.5,12,9.0,Intermitente,No
+AL0374,36,Maestría,En línea,Redes sociales,No,No,13.8,88.7,97.5,19,,Comprometido,No
+AL0401,33,Diplomado,Híbrida,Empresa,Sí,No,8.2,93.2,84.0,16,10.0,Comprometido,No
+AL0356,38,Diplomado,Híbrida,Recomendación,Sí,Sí,7.7,77.8,67.3,16,7.5,Intermitente,No
+AL0454,35,Maestría,Híbrida,Redes sociales,Sí,No,13.2,92.9,94.3,23,8.4,Comprometido,No
+AL0325,23,Diplomado,En línea,Recomendación,Sí,Sí,0.0,65.8,70.2,8,7.4,Sobrecargado,No
+AL0026,30,Curso corto,En línea,Redes sociales,Sí,Sí,15.5,86.9,82.6,25,9.4,Comprometido,No
+AL0439,27,Maestría,Presencial,Recomendación,Sí,No,3.8,70.7,62.2,3,8.3,Sobrecargado,Sí
+AL0043,47,Maestría,Híbrida,Recomendación,Sí,No,1.9,81.6,58.5,5,7.4,Sobrecargado,No
+AL0354,41,Curso corto,En línea,Empresa,Sí,No,9.3,81.2,58.6,8,8.5,Intermitente,No
+AL0154,21,Maestría,En línea,Sitio web,Sí,No,11.2,77.1,56.2,17,8.6,Intermitente,No
+AL0178,35,Maestría,En línea,Empresa,No,No,8.0,38.2,29.2,4,6.2,Desconectado,Sí
+AL0297,33,Curso corto,Híbrida,Recomendación,Sí,No,1.7,62.7,35.9,0,5.3,Desconectado,Sí
+AL0127,25,Maestría,Presencial,Sitio web,No,No,10.7,98.5,85.0,22,8.9,Comprometido,No
+AL0438,35,Maestría,En línea,Sitio web,No,Sí,4.1,96.4,51.1,13,7.6,Intermitente,Sí
+AL0032,33,Diplomado,En línea,Recomendación,Sí,Sí,1.1,38.1,35.3,5,5.0,Desconectado,Sí
+AL0114,33,Curso corto,Híbrida,Recomendación,No,Sí,3.4,72.5,75.4,12,8.0,Intermitente,No
+AL0230,25,Maestría,En línea,Redes sociales,Sí,Sí,9.1,91.6,82.8,25,8.9,Comprometido,No
+AL0322,29,Diplomado,En línea,Redes sociales,Sí,Sí,5.8,71.6,76.6,12,7.8,Intermitente,No
+AL0441,24,Maestría,Híbrida,Recomendación,No,No,4.2,50.9,39.9,8,5.2,Desconectado,Sí
+AL0058,45,Maestría,En línea,Redes sociales,Sí,No,5.1,88.6,73.2,13,8.2,Intermitente,Sí
+AL0221,34,Diplomado,En línea,Redes sociales,No,No,9.4,100.0,92.7,16,8.9,Comprometido,No
+AL0025,32,Curso corto,En línea,Sitio web,Sí,No,3.5,70.8,48.5,10,7.3,Sobrecargado,Sí
+AL0018,25,Maestría,Presencial,Redes sociales,Sí,No,13.7,100.0,84.7,22,9.8,Comprometido,No
+AL0204,35,Curso corto,En línea,Sitio web,Sí,No,9.4,96.3,97.1,22,,Comprometido,No
+AL0067,31,Diplomado,En línea,Redes sociales,Sí,Sí,8.8,74.7,83.6,14,8.3,Intermitente,No
+AL0450,24,Maestría,En línea,Empresa,Sí,Sí,8.0,66.6,61.9,16,7.0,Intermitente,Sí
+AL0256,27,Maestría,Presencial,Sitio web,Sí,Sí,8.5,65.0,41.5,11,7.2,Sobrecargado,Sí
+AL0333,37,Maestría,En línea,Recomendación,Sí,No,7.9,74.5,54.4,12,8.6,Sobrecargado,No
+AL0177,22,Diplomado,En línea,Recomendación,No,No,7.9,93.7,71.3,10,7.8,Intermitente,No
+AL0095,22,Maestría,Híbrida,Empresa,No,No,7.9,91.1,91.8,19,9.3,Comprometido,No
+AL0489,30,Maestría,Presencial,Sitio web,Sí,Sí,7.8,77.7,44.0,19,7.5,Intermitente,No
+AL0232,29,Diplomado,Presencial,Recomendación,Sí,No,8.1,85.7,65.5,14,7.7,Intermitente,No
+AL0024,33,Diplomado,Híbrida,Sitio web,No,No,5.3,53.6,26.8,1,6.1,Desconectado,Sí
+AL0462,33,Maestría,En línea,Empresa,Sí,No,16.0,96.6,87.5,21,9.8,Comprometido,No
+AL0279,27,Maestría,En línea,Sitio web,No,No,3.0,42.7,44.3,7,6.5,Desconectado,Sí
+AL0229,29,Maestría,Presencial,Redes sociales,No,Sí,8.9,63.5,78.4,20,6.8,Intermitente,No
+AL0006,29,Diplomado,En línea,Redes sociales,No,No,0.0,31.1,48.6,3,6.5,Desconectado,No
+AL0117,32,Diplomado,Presencial,Recomendación,Sí,Sí,,80.3,44.3,10,7.9,Sobrecargado,No
+AL0046,27,Diplomado,En línea,Recomendación,Sí,No,3.4,64.8,58.8,9,7.1,Sobrecargado,No
+AL0197,33,Diplomado,Presencial,Redes sociales,Sí,No,5.0,67.0,79.1,9,9.6,Intermitente,No
+AL0311,29,Maestría,Presencial,Redes sociales,No,Sí,7.5,83.9,76.6,15,8.2,Intermitente,No
+AL0017,33,Curso corto,En línea,Empresa,No,No,7.9,78.0,63.7,9,7.4,Intermitente,No
+AL0499,26,Diplomado,En línea,Redes sociales,Sí,No,7.3,88.5,80.0,16,7.6,Intermitente,No
+AL0384,35,Maestría,Híbrida,Empresa,Sí,No,4.2,76.4,50.8,10,7.6,Intermitente,No
+AL0004,34,Diplomado,En línea,Recomendación,Sí,No,2.2,73.3,62.4,11,7.7,Sobrecargado,No
+AL0250,32,Diplomado,Presencial,,No,No,6.1,83.2,73.0,17,7.3,Intermitente,No
+AL0211,26,Diplomado,Híbrida,Empresa,Sí,No,5.6,74.5,68.9,9,7.7,Sobrecargado,No
+AL0061,25,Diplomado,Híbrida,Redes sociales,Sí,No,1.8,81.5,49.3,12,,Sobrecargado,Sí
+AL0111,26,Maestría,En línea,Redes sociales,Sí,Sí,,61.2,63.1,11,6.3,Intermitente,No
+AL0343,29,Maestría,Presencial,Empresa,Sí,No,4.1,77.3,74.2,13,8.3,Sobrecargado,No
+AL0281,27,Maestría,En línea,Redes sociales,No,No,8.7,85.3,89.4,25,8.3,Comprometido,Sí
+AL0030,25,Curso corto,En línea,Recomendación,Sí,No,4.6,62.4,67.3,8,8.1,Sobrecargado,Sí
+AL0212,26,Diplomado,En línea,Recomendación,Sí,No,7.0,73.6,62.3,14,8.6,Intermitente,No
+AL0445,31,Maestría,En línea,Sitio web,No,No,15.0,96.7,89.5,23,8.6,Comprometido,Sí
+AL0027,32,Diplomado,En línea,Recomendación,No,No,5.9,71.1,63.7,15,7.2,Intermitente,No
+AL0008,34,Diplomado,Híbrida,Redes sociales,Sí,Sí,10.1,52.6,42.2,13,,Sobrecargado,Sí
+AL0182,39,Curso corto,En línea,Redes sociales,Sí,No,4.0,37.4,45.5,8,5.9,Desconectado,Sí
+AL0487,41,Diplomado,Presencial,Redes sociales,No,No,8.6,82.0,55.3,12,7.7,Intermitente,No
+AL0109,31,Maestría,Híbrida,Recomendación,No,Sí,,92.2,100.0,17,9.2,Comprometido,No
+AL0038,37,Diplomado,Híbrida,Redes sociales,Sí,Sí,5.7,79.2,70.3,16,8.1,Intermitente,No
+AL0158,25,Maestría,En línea,Empresa,Sí,No,,63.9,55.3,10,6.7,Sobrecargado,Sí
+AL0503,44,Maestría,Presencial,Recomendación,Sí,No,0.2,26.0,41.6,4,5.2,Desconectado,Sí
+AL0119,36,Diplomado,Híbrida,Sitio web,Sí,No,7.6,78.3,52.4,15,7.6,Intermitente,Sí
+AL0115,23,Diplomado,En línea,Redes sociales,Sí,No,13.1,100.0,88.1,18,8.9,Comprometido,No
+AL0278,33,Maestría,En línea,Sitio web,No,No,4.3,65.4,76.6,21,7.9,Intermitente,Sí
+AL0176,21,Curso corto,Híbrida,Recomendación,No,Sí,14.1,100.0,81.9,19,9.6,Comprometido,No
+AL0385,37,Maestría,Híbrida,Recomendación,No,No,4.1,74.1,81.3,15,7.8,Intermitente,No
+AL0209,33,Maestría,Presencial,Recomendación,No,No,13.4,88.4,95.1,21,9.0,Comprometido,No
+AL0145,31,Maestría,En línea,Recomendación,Sí,No,7.4,65.9,82.3,15,8.2,Intermitente,No
+AL0195,32,Maestría,En línea,Empresa,No,No,6.4,87.3,77.6,15,8.4,Comprometido,No
+AL0397,29,Diplomado,Presencial,Recomendación,Sí,No,6.6,63.2,76.0,10,8.1,Sobrecargado,No
+AL0409,32,Diplomado,Presencial,Recomendación,No,Sí,8.8,100.0,82.9,26,9.9,Comprometido,No
+AL0299,27,Diplomado,Híbrida,Recomendación,Sí,Sí,6.6,73.0,57.4,11,7.2,Sobrecargado,No
+AL0246,21,Curso corto,En línea,Empresa,No,No,2.2,47.6,41.9,5,6.5,Desconectado,Sí
+AL0249,30,Maestría,En línea,Redes sociales,Sí,No,8.3,83.3,54.1,13,8.9,Intermitente,Sí
+AL0479,30,Curso corto,En línea,Redes sociales,No,No,6.0,68.8,63.4,8,7.3,Intermitente,No
+AL0142,36,Diplomado,Presencial,Sitio web,Sí,No,3.3,68.5,55.0,11,7.5,Intermitente,No
+AL0393,23,Diplomado,En línea,Recomendación,Sí,No,5.6,95.8,66.0,12,8.3,Intermitente,No
+AL0068,24,Curso corto,Presencial,Empresa,Sí,No,11.6,81.8,97.1,29,9.9,Comprometido,No
+AL0471,34,Diplomado,En línea,Redes sociales,No,No,7.1,79.4,76.3,11,9.1,Intermitente,No
+AL0169,29,Curso corto,En línea,Recomendación,No,No,,95.9,94.6,24,9.0,Comprometido,No
+AL0189,35,Curso corto,En línea,Sitio web,Sí,No,7.7,63.0,54.7,8,8.3,Sobrecargado,No
+AL0248,31,Diplomado,En línea,Redes sociales,Sí,Sí,11.5,71.3,81.1,19,9.3,Intermitente,Sí
+AL0404,33,Diplomado,En línea,Recomendación,No,No,11.6,96.1,79.7,22,8.7,Comprometido,No
+AL0484,29,Maestría,En línea,Recomendación,No,Sí,12.6,100.0,93.3,21,10.0,Comprometido,No
+AL0194,26,Maestría,Presencial,Recomendación,Sí,No,6.4,68.5,57.9,12,7.3,Sobrecargado,No
+AL0082,23,Maestría,En línea,Redes sociales,No,No,1.0,87.0,75.8,13,7.8,Intermitente,Sí
+AL0110,35,Maestría,En línea,Empresa,No,No,0.0,46.0,33.2,2,6.9,Desconectado,Sí
+AL0193,31,Maestría,En línea,Sitio web,Sí,Sí,11.4,89.1,91.7,22,9.3,Comprometido,No
+AL0146,32,Maestría,En línea,Recomendación,No,Sí,11.2,85.1,85.6,25,8.3,Comprometido,No
+AL0093,24,Maestría,Híbrida,Recomendación,Sí,No,7.6,75.8,61.7,15,8.6,Intermitente,No
+AL0153,29,Diplomado,Híbrida,Empresa,Sí,No,11.6,77.7,76.3,25,7.5,Comprometido,No
+AL0287,32,Maestría,Híbrida,Recomendación,Sí,Sí,12.6,73.2,98.7,19,8.0,Comprometido,No
+AL0423,29,Diplomado,En línea,Recomendación,No,Sí,9.8,95.9,85.6,19,9.4,Comprometido,No
+AL0262,29,Maestría,En línea,Sitio web,Sí,Sí,7.1,79.5,59.6,11,7.7,Sobrecargado,No
+AL0383,34,Maestría,En línea,Empresa,Sí,No,6.4,67.4,70.3,12,7.8,Sobrecargado,No
+AL0084,25,Diplomado,Presencial,Empresa,Sí,Sí,11.3,97.8,99.6,30,9.2,Comprometido,No
+AL0104,27,Diplomado,Híbrida,Sitio web,Sí,Sí,5.2,42.0,10.9,8,6.0,Desconectado,Sí
+AL0166,26,Maestría,Híbrida,Redes sociales,Sí,No,,77.9,72.4,10,8.7,Intermitente,No
+AL0164,31,Maestría,Presencial,Recomendación,No,No,9.7,86.6,93.4,22,8.5,Comprometido,No
+AL0200,26,Diplomado,En línea,Sitio web,No,No,9.7,83.4,83.8,25,8.9,Comprometido,Sí
+AL0305,35,Maestría,Híbrida,Recomendación,Sí,Sí,2.9,35.5,20.0,5,6.2,Desconectado,Sí
+AL0075,29,Maestría,En línea,Sitio web,Sí,No,9.8,94.4,92.8,23,8.6,Comprometido,No
+AL0461,24,Maestría,En línea,Recomendación,No,No,8.0,91.6,92.1,8,,Intermitente,No
+AL0245,34,Maestría,Híbrida,Recomendación,Sí,No,2.4,74.4,60.2,12,7.0,Intermitente,No
+AL0506,29,Maestría,Híbrida,Recomendación,Sí,No,4.0,66.6,46.2,13,6.8,Sobrecargado,Sí
+AL0120,42,Diplomado,Híbrida,Recomendación,No,No,5.5,77.3,77.5,15,8.5,Intermitente,Sí
+AL0416,31,Diplomado,En línea,Empresa,Sí,No,14.5,94.9,94.2,19,8.9,Comprometido,No
+AL0483,41,Maestría,En línea,Recomendación,No,Sí,3.2,73.0,62.1,14,7.8,Intermitente,No
+AL0273,21,Maestría,Híbrida,Sitio web,Sí,No,15.4,89.5,72.3,17,9.3,Comprometido,No
+AL0381,29,Diplomado,Híbrida,Redes sociales,No,No,6.9,66.7,55.3,13,8.5,Intermitente,No
+AL0430,21,Maestría,Híbrida,Recomendación,Sí,Sí,3.4,67.5,55.7,14,7.2,Sobrecargado,No
+AL0405,22,Maestría,En línea,Sitio web,No,No,6.0,59.2,13.2,0,6.0,Desconectado,Sí
+AL0495,32,Maestría,En línea,Recomendación,Sí,No,7.3,54.0,56.0,4,7.5,Sobrecargado,Sí
+AL0266,32,Maestría,Híbrida,Redes sociales,No,No,12.9,93.5,92.9,15,,Comprometido,No
+AL0473,34,Diplomado,Presencial,Recomendación,No,No,11.7,92.8,100.0,24,8.8,Comprometido,No
+AL0412,32,Curso corto,Presencial,Redes sociales,Sí,Sí,2.1,67.8,60.6,9,7.9,Sobrecargado,No
+AL0291,26,Maestría,En línea,Empresa,Sí,No,3.6,67.2,57.7,12,7.8,Sobrecargado,Sí
+AL0251,23,Curso corto,Presencial,Recomendación,Sí,No,1.8,74.7,70.2,11,9.5,Sobrecargado,No
+AL0389,31,Maestría,En línea,Empresa,Sí,No,10.9,98.2,81.8,21,8.5,Comprometido,No
+AL0037,22,Curso corto,En línea,Empresa,No,No,13.6,100.0,79.4,24,8.5,Comprometido,No
+AL0140,34,Diplomado,En línea,Sitio web,No,Sí,13.4,73.4,84.7,21,9.0,Comprometido,No
+AL0254,34,Maestría,Híbrida,Sitio web,No,No,9.5,90.0,94.7,26,9.7,Comprometido,No
+AL0437,21,Maestría,En línea,Recomendación,Sí,No,13.5,92.1,99.7,29,9.0,Comprometido,Sí
+AL0060,21,Diplomado,En línea,Sitio web,Sí,No,8.9,88.3,100.0,23,9.6,Comprometido,No
+AL0112,29,Maestría,En línea,Sitio web,No,No,,85.8,86.9,19,8.0,Comprometido,No
+AL0282,30,Maestría,En línea,Recomendación,No,Sí,11.9,93.4,70.9,26,7.6,Comprometido,No
+AL0275,25,Maestría,En línea,Empresa,Sí,No,7.4,53.0,59.9,10,7.3,Sobrecargado,No
+AL0263,21,Maestría,En línea,Sitio web,No,No,13.6,75.6,96.4,26,9.4,Comprometido,No
+AL0452,25,Maestría,En línea,Recomendación,No,No,0.0,48.9,38.9,2,6.3,Desconectado,No
+AL0151,30,Curso corto,Híbrida,Recomendación,Sí,Sí,3.0,67.1,68.7,9,7.0,Sobrecargado,No
+AL0267,21,Diplomado,Híbrida,Recomendación,No,No,7.5,95.0,72.8,24,7.9,Comprometido,No
+AL0424,27,Curso corto,En línea,Recomendación,No,No,,81.9,89.3,23,9.9,Comprometido,No
+AL0039,35,Maestría,Presencial,Empresa,Sí,No,14.9,96.3,100.0,20,10.0,Comprometido,No
+AL0337,32,Maestría,En línea,Redes sociales,No,No,9.8,96.7,73.7,19,9.8,Comprometido,No
+AL0199,29,Maestría,Presencial,Redes sociales,Sí,No,9.6,75.0,90.1,23,8.3,Comprometido,No
+AL0276,29,Maestría,En línea,Sitio web,No,No,7.0,80.1,71.7,12,7.7,Intermitente,No
+AL0147,31,Maestría,Presencial,Redes sociales,Sí,No,11.6,86.1,98.4,21,8.9,Comprometido,No
+AL0422,25,Maestría,En línea,Sitio web,Sí,No,11.2,87.7,93.6,27,9.7,Comprometido,No
+AL0148,24,Maestría,En línea,Recomendación,Sí,Sí,,97.7,64.6,12,7.8,Intermitente,No
+AL0478,31,Maestría,En línea,Recomendación,No,No,9.8,80.6,69.7,10,7.8,Intermitente,Sí
+AL0306,21,Maestría,En línea,Redes sociales,Sí,Sí,10.2,79.8,56.9,21,7.7,Intermitente,No
+AL0124,21,Diplomado,Híbrida,Sitio web,No,Sí,7.7,62.0,69.0,7,8.1,Intermitente,Sí
+AL0396,38,Diplomado,Híbrida,Redes sociales,Sí,No,6.2,88.9,56.5,12,8.0,Intermitente,No
+AL0097,35,Maestría,Presencial,Recomendación,Sí,No,5.9,78.6,80.8,15,8.6,Intermitente,Sí
+AL0144,31,Maestría,En línea,Empresa,No,Sí,12.1,76.0,64.6,13,6.8,Intermitente,No
+AL0240,23,Curso corto,En línea,Recomendación,Sí,No,,100.0,80.8,20,9.4,Comprometido,No
+AL0292,23,Maestría,En línea,Recomendación,Sí,No,10.1,83.6,99.5,24,,Comprometido,No
+AL0098,21,Maestría,En línea,Redes sociales,No,No,10.7,100.0,74.3,23,9.7,Comprometido,No
+AL0425,21,Diplomado,Híbrida,Sitio web,No,Sí,5.6,89.5,67.6,13,,Intermitente,No
+AL0377,33,Diplomado,Híbrida,Redes sociales,No,No,0.0,62.9,4.5,1,,Desconectado,Sí
+AL0123,30,Curso corto,Presencial,Redes sociales,Sí,No,12.1,74.4,81.0,23,7.6,Comprometido,No
+AL0184,26,Maestría,En línea,Recomendación,Sí,No,,96.4,85.4,18,8.7,Comprometido,No
+AL0203,41,Diplomado,En línea,Sitio web,No,No,6.4,88.3,84.8,11,8.4,Intermitente,No
+AL0247,28,Curso corto,Presencial,Sitio web,Sí,Sí,9.3,105.0,82.1,12,,Intermitente,No
+AL0395,30,Maestría,En línea,Sitio web,Sí,Sí,12.1,100.0,100.0,20,9.1,Comprometido,No
+AL0326,46,Maestría,Presencial,Recomendación,Sí,No,0.0,61.7,62.9,12,7.2,Sobrecargado,Sí
+AL0378,21,Maestría,Presencial,Redes sociales,Sí,No,7.0,82.8,63.8,10,8.3,Intermitente,No
+AL0321,36,Diplomado,Híbrida,Sitio web,No,No,0.0,46.3,21.0,4,6.3,Desconectado,Sí
+AL0426,23,Diplomado,Híbrida,Sitio web,Sí,No,3.6,68.8,52.7,10,7.1,Sobrecargado,No
+AL0303,34,Maestría,En línea,Recomendación,Sí,No,4.3,73.5,70.1,10,8.5,Intermitente,Sí
+AL0126,31,Diplomado,En línea,Recomendación,Sí,Sí,8.2,78.1,81.9,8,8.5,Intermitente,No
+AL0324,35,Curso corto,En línea,Redes sociales,No,No,4.1,81.5,84.1,8,9.2,Intermitente,No
+AL0224,30,Curso corto,En línea,Sitio web,No,No,0.0,61.5,28.7,7,6.9,Desconectado,Sí
+AL0449,35,Diplomado,Presencial,Empresa,Sí,No,4.7,82.1,84.3,23,7.8,Comprometido,No
+AL0220,36,Diplomado,En línea,Recomendación,No,No,6.1,82.9,59.7,11,8.2,Intermitente,No
+AL0130,33,Maestría,Presencial,Redes sociales,Sí,No,4.4,86.2,72.8,19,,Intermitente,No
+AL0451,32,Curso corto,En línea,Redes sociales,No,No,2.9,78.9,78.4,21,8.5,Comprometido,No
+AL0308,33,Maestría,En línea,Recomendación,No,No,6.7,80.3,70.3,16,8.4,Intermitente,Sí
+AL0353,33,Maestría,En línea,Sitio web,No,Sí,5.8,84.6,62.2,18,8.5,Intermitente,No
+AL0406,30,Curso corto,En línea,Recomendación,No,Sí,0.4,49.5,31.2,2,5.4,Desconectado,No
+AL0488,23,Curso corto,Híbrida,Redes sociales,No,Sí,8.5,76.1,97.7,21,9.0,Comprometido,No
+AL0382,26,Diplomado,En línea,Recomendación,Sí,No,2.6,57.5,24.1,4,5.4,Desconectado,No
+AL0504,21,Maestría,En línea,Sitio web,No,No,6.0,76.1,89.2,17,8.7,Intermitente,No
+AL0295,23,Diplomado,En línea,Recomendación,Sí,Sí,5.0,73.2,64.1,11,6.6,Sobrecargado,Sí
+AL0394,27,Curso corto,Presencial,Sitio web,Sí,No,3.0,57.5,51.4,12,7.0,Sobrecargado,No
+AL0365,21,Maestría,En línea,Recomendación,Sí,No,4.2,68.7,58.7,9,,Sobrecargado,Sí
+AL0113,29,Diplomado,Presencial,Recomendación,Sí,No,12.6,90.9,100.0,19,8.7,Comprometido,No
+AL0180,24,Maestría,Presencial,Recomendación,Sí,Sí,5.0,81.9,66.1,7,8.5,Sobrecargado,No
+AL0330,40,Maestría,Híbrida,Recomendación,No,No,15.0,100.0,88.3,25,8.4,Comprometido,No
+AL0486,31,Diplomado,En línea,Empresa,Sí,Sí,7.9,76.3,56.7,13,7.4,Intermitente,No
+AL0355,33,Curso corto,Presencial,Redes sociales,Sí,Sí,7.1,65.2,48.4,9,7.7,Intermitente,No
+AL0315,27,Maestría,En línea,Recomendación,No,No,5.7,80.2,76.7,18,7.9,Intermitente,No
+AL0152,36,Maestría,En línea,Redes sociales,No,No,6.6,38.8,29.7,6,5.2,Desconectado,Sí
+AL0387,35,Curso corto,Presencial,Recomendación,Sí,No,4.7,75.6,48.1,18,6.4,Sobrecargado,No
+AL0234,21,Maestría,Híbrida,Empresa,Sí,No,8.4,71.6,57.0,17,7.2,Intermitente,No
+AL0481,21,Maestría,En línea,Recomendación,Sí,Sí,8.1,68.5,74.8,15,7.8,Intermitente,No
+AL0334,27,Curso corto,Híbrida,Sitio web,Sí,Sí,0.0,37.7,28.8,0,5.8,Desconectado,Sí
+AL0165,39,Maestría,En línea,Recomendación,Sí,No,6.1,83.1,46.7,11,6.4,Intermitente,No
+AL0318,30,Curso corto,En línea,Recomendación,Sí,No,3.0,73.7,58.3,12,,Sobrecargado,Sí
+AL0137,32,Diplomado,Presencial,Sitio web,Sí,No,1.3,48.9,18.8,0,,Desconectado,No
+AL0198,32,Diplomado,En línea,Empresa,No,No,0.0,33.5,21.3,5,5.8,Desconectado,No
+AL0259,26,Maestría,Híbrida,Recomendación,Sí,No,14.1,100.0,90.5,23,9.4,Comprometido,No
+AL0233,29,Maestría,En línea,Sitio web,Sí,No,2.1,60.1,35.7,7,6.4,Desconectado,Sí
+AL0116,35,Diplomado,En línea,Empresa,No,Sí,0.0,46.7,32.6,5,7.0,Desconectado,Sí
+AL0121,35,Maestría,Híbrida,Recomendación,Sí,No,10.6,78.0,71.3,12,,Intermitente,Sí
+AL0375,32,Maestría,Presencial,Sitio web,Sí,No,12.2,96.7,62.8,22,6.8,Comprometido,No
+AL0225,34,Diplomado,Híbrida,Sitio web,Sí,No,8.3,88.8,81.4,23,8.1,Comprometido,No
+AL0433,28,Diplomado,Presencial,Redes sociales,Sí,Sí,5.1,74.1,56.9,8,7.3,Sobrecargado,No
+AL0362,30,Diplomado,Híbrida,Recomendación,No,No,9.5,100.0,86.5,16,10.0,Comprometido,No
+AL0128,24,Maestría,En línea,Redes sociales,Sí,No,11.0,96.8,94.2,22,9.5,Comprometido,No
+AL0276,29,Maestría,En línea,Sitio web,No,No,7.0,80.1,71.7,12,7.7,Intermitente,No
+AL0286,29,Maestría,Presencial,Empresa,Sí,Sí,7.0,76.0,61.2,15,7.1,Intermitente,No
+AL0466,37,Diplomado,En línea,Recomendación,Sí,Sí,3.9,76.2,46.0,16,7.4,Sobrecargado,No
+AL0442,30,Diplomado,En línea,Redes sociales,No,No,12.5,100.0,93.7,24,8.6,Comprometido,No
+AL0108,32,Maestría,En línea,Recomendación,No,No,13.9,100.0,90.8,30,8.2,Comprometido,No
+AL0398,35,Maestría,Híbrida,Empresa,Sí,No,10.3,100.0,91.7,25,8.8,Comprometido,No
+AL0350,26,Curso corto,En línea,Redes sociales,Sí,Sí,10.2,100.0,76.4,15,8.0,Comprometido,No
+AL0134,23,Maestría,Híbrida,Redes sociales,Sí,No,11.0,95.2,93.4,19,,Comprometido,No
+AL0391,28,Diplomado,En línea,Recomendación,No,No,2.7,82.1,77.3,15,8.4,Intermitente,No
+AL0045,31,Maestría,Híbrida,Redes sociales,Sí,No,,79.1,53.0,12,,Sobrecargado,No
+AL0496,27,Curso corto,Presencial,Recomendación,No,No,6.7,64.5,71.1,14,8.5,Intermitente,No
+AL0066,25,Curso corto,En línea,Sitio web,No,No,9.3,78.9,66.9,13,8.8,Intermitente,Sí
+AL0284,40,Curso corto,En línea,Recomendación,Sí,Sí,16.5,97.9,100.0,16,9.0,Comprometido,No
+AL0086,33,Maestría,Híbrida,Recomendación,No,No,13.8,84.2,93.9,20,8.7,Comprometido,No
+AL0243,34,Curso corto,Híbrida,Empresa,No,No,15.0,93.8,93.0,19,9.3,Comprometido,No
+AL0187,35,Diplomado,Híbrida,Sitio web,No,No,5.8,72.6,71.0,11,7.5,Intermitente,No
+AL0413,21,Maestría,En línea,Redes sociales,No,No,13.0,85.6,94.5,21,10.0,Comprometido,No
+AL0160,24,Maestría,Híbrida,Redes sociales,Sí,No,7.0,72.9,42.6,8,8.6,Sobrecargado,No
+AL0013,36,Curso corto,Presencial,Recomendación,Sí,No,6.3,79.6,62.8,9,9.2,Intermitente,No
+AL0036,26,Maestría,Híbrida,Empresa,No,No,8.1,82.0,77.5,22,7.3,Comprometido,No
+AL0029,31,Maestría,Híbrida,Recomendación,No,No,12.3,97.3,93.6,21,,Comprometido,No
+AL0171,24,Maestría,En línea,Sitio web,No,No,5.6,91.9,90.4,23,9.5,Comprometido,No
+AL0143,24,Maestría,En línea,Redes sociales,Sí,No,3.7,45.1,24.7,3,6.6,Desconectado,Sí
+AL0429,21,Diplomado,En línea,Recomendación,No,Sí,13.0,100.0,91.1,25,9.9,Comprometido,No
+AL0427,38,Maestría,En línea,Sitio web,No,No,16.7,95.3,96.9,22,9.0,Comprometido,No
+AL0222,21,Curso corto,En línea,Recomendación,Sí,No,6.8,88.2,58.2,17,7.8,Intermitente,Sí
+AL0096,28,Maestría,Presencial,Redes sociales,Sí,Sí,3.8,78.8,72.8,14,8.0,Intermitente,Sí
+AL0052,31,Maestría,Híbrida,Redes sociales,No,No,13.0,91.4,78.1,23,8.7,Comprometido,No
+AL0241,21,Maestría,En línea,Sitio web,Sí,Sí,0.0,66.1,74.6,9,8.4,Sobrecargado,Sí
+AL0400,28,Maestría,Presencial,Sitio web,No,No,8.2,85.8,63.2,7,,Intermitente,No
+AL0352,21,Curso corto,En línea,Sitio web,No,Sí,11.1,80.9,100.0,19,8.6,Comprometido,No
+AL0408,28,Diplomado,En línea,Recomendación,Sí,No,3.4,76.6,52.5,9,7.6,Sobrecargado,No
+AL0179,21,Curso corto,En línea,Redes sociales,No,No,3.1,40.6,29.7,4,,Desconectado,No
+AL0042,28,Curso corto,Híbrida,Sitio web,Sí,Sí,0.0,68.8,71.9,11,7.5,Sobrecargado,No
+AL0469,22,Diplomado,En línea,Redes sociales,Sí,No,10.1,82.0,80.9,21,8.8,Comprometido,No
+AL0417,27,Curso corto,En línea,Recomendación,Sí,No,14.9,92.3,81.8,22,8.3,Comprometido,No
+AL0207,32,Curso corto,Híbrida,,No,No,9.6,97.2,84.3,24,9.0,Comprometido,No
+AL0283,31,Curso corto,Híbrida,Redes sociales,No,No,11.8,76.3,99.7,21,9.3,Comprometido,No
+AL0359,23,Maestría,Presencial,Sitio web,Sí,No,8.1,79.4,74.5,11,,Intermitente,Sí
+AL0255,24,Maestría,En línea,Recomendación,Sí,No,17.1,96.0,89.0,22,8.5,Comprometido,No
+AL0443,31,Maestría,Híbrida,Empresa,Sí,No,6.2,64.2,54.4,11,8.1,Sobrecargado,Sí
+AL0005,35,Curso corto,Híbrida,Recomendación,No,No,8.2,97.9,91.0,23,9.4,Comprometido,No
+AL0257,21,Diplomado,Híbrida,Sitio web,Sí,No,6.8,70.2,56.7,11,7.4,Sobrecargado,Sí
+AL0482,33,Maestría,En línea,Recomendación,No,No,13.2,88.5,92.1,23,9.7,Comprometido,No
+AL0101,26,Diplomado,En línea,Recomendación,Sí,No,0.0,40.1,33.0,2,6.3,Desconectado,No
+AL0227,31,Diplomado,Presencial,Recomendación,Sí,Sí,15.7,93.5,90.6,23,9.1,Comprometido,No
+AL0458,28,Maestría,Híbrida,Redes sociales,No,No,5.8,94.8,73.0,13,8.6,Intermitente,No
+AL0214,28,Maestría,En línea,Sitio web,Sí,No,1.4,60.5,53.4,12,6.6,Sobrecargado,Sí
+AL0453,22,Maestría,En línea,,Sí,No,5.1,79.0,65.5,15,8.3,Sobrecargado,Sí
+AL0172,35,Curso corto,Híbrida,Sitio web,Sí,Sí,9.0,90.3,64.2,14,8.4,Intermitente,No
+AL0099,28,Maestría,En línea,Redes sociales,No,No,14.0,90.1,100.0,20,9.6,Comprometido,No
+AL0293,21,Maestría,Híbrida,Empresa,No,Sí,0.0,54.4,35.6,6,6.0,Desconectado,Sí
+AL0216,36,Curso corto,En línea,Recomendación,Sí,Sí,3.5,72.6,71.0,10,8.6,Sobrecargado,No
+AL0062,29,Maestría,En línea,Redes sociales,No,Sí,6.8,80.0,69.5,15,8.4,Intermitente,No
+AL0048,34,Diplomado,Híbrida,Empresa,No,No,12.5,84.4,68.6,26,9.0,Comprometido,No
+AL0033,25,Diplomado,Híbrida,,Sí,No,9.6,91.4,89.8,24,9.5,Comprometido,No
+AL0268,29,Maestría,En línea,Sitio web,Sí,Sí,12.2,82.4,96.8,15,8.6,Comprometido,No
+AL0328,31,Diplomado,Presencial,Redes sociales,Sí,No,7.1,80.6,67.9,8,8.7,Intermitente,No
+AL0201,30,Curso corto,En línea,Redes sociales,Sí,Sí,3.5,80.6,61.1,12,7.2,Sobrecargado,No
+AL0480,32,Curso corto,En línea,Redes sociales,Sí,No,3.5,83.7,75.8,15,8.0,Intermitente,No
+AL0028,29,Diplomado,Presencial,Redes sociales,No,No,15.6,88.7,80.4,22,8.0,Comprometido,No
+AL0419,29,Curso corto,En línea,Sitio web,Sí,Sí,13.3,69.4,80.0,23,9.5,Comprometido,No
+AL0231,27,Maestría,En línea,Redes sociales,No,Sí,9.2,80.5,100.0,17,8.2,Comprometido,No
+AL0261,30,Maestría,Híbrida,Sitio web,Sí,No,13.1,91.3,87.6,21,9.0,Comprometido,No
+AL0379,28,Diplomado,Presencial,Redes sociales,No,No,6.4,76.5,80.3,14,8.4,Intermitente,Sí
+AL0289,26,Maestría,En línea,Sitio web,No,No,6.5,87.9,85.6,11,9.7,Intermitente,No
+AL0163,22,Diplomado,Híbrida,Sitio web,No,No,12.0,99.8,87.1,20,9.5,Comprometido,No
+AL0392,22,Diplomado,Presencial,Recomendación,No,No,9.9,89.6,74.8,20,9.1,Comprometido,No
+AL0456,35,Maestría,En línea,Recomendación,Sí,Sí,10.2,91.5,92.9,22,9.7,Comprometido,No
+AL0139,33,Curso corto,Híbrida,Empresa,Sí,No,1.2,81.8,63.6,10,8.1,Sobrecargado,Sí
+AL0063,32,Diplomado,Híbrida,Redes sociales,Sí,Sí,7.8,76.8,81.3,13,8.3,Intermitente,No
+AL0136,26,Diplomado,Presencial,Redes sociales,Sí,Sí,11.2,98.6,89.7,23,9.1,Comprometido,No
+AL0129,29,Maestría,Híbrida,Redes sociales,Sí,No,15.4,89.9,92.0,21,7.3,Comprometido,No
+AL0514,26,Diplomado,Presencial,,Sí,No,10.7,100.0,100.0,26,10.0,Comprometido,No
+AL0009,30,Curso corto,En línea,Empresa,Sí,No,13.1,93.3,84.0,22,9.7,Comprometido,No
+AL0327,31,Diplomado,En línea,Redes sociales,Sí,No,4.1,88.5,61.6,8,,Sobrecargado,No
+AL0500,21,Diplomado,En línea,Sitio web,Sí,No,7.3,75.5,60.1,17,6.9,Intermitente,No
+AL0065,33,Curso corto,En línea,Redes sociales,No,No,5.1,78.5,55.8,13,7.1,Intermitente,No
+AL0301,26,Maestría,Híbrida,Recomendación,Sí,No,4.1,79.5,51.0,15,7.8,Sobrecargado,No
+AL0015,34,Diplomado,Híbrida,Redes sociales,No,No,6.8,81.9,66.3,12,8.5,Intermitente,Sí
+AL0157,31,Diplomado,En línea,Recomendación,No,Sí,12.8,80.2,96.1,22,8.6,Comprometido,No
+AL0041,41,Maestría,En línea,Recomendación,No,No,5.0,81.6,73.5,18,9.2,Intermitente,No
+AL0380,36,Curso corto,En línea,Recomendación,Sí,No,3.7,74.6,56.8,13,7.7,Sobrecargado,Sí
+AL0494,40,Maestría,En línea,Redes sociales,Sí,Sí,16.5,100.0,98.6,21,8.5,Comprometido,No
+AL0434,37,Diplomado,En línea,Redes sociales,Sí,No,6.9,69.2,61.0,12,7.3,Sobrecargado,Sí
+AL0217,34,Maestría,Híbrida,Redes sociales,Sí,No,9.0,86.7,98.3,13,9.5,Comprometido,Sí
+AL0410,32,Maestría,En línea,Recomendación,No,No,2.2,53.2,26.3,6,6.3,Desconectado,No
+AL0280,23,Maestría,En línea,Sitio web,Sí,No,2.2,38.7,39.8,7,6.0,Desconectado,Sí
+AL0468,33,Maestría,Híbrida,Empresa,No,No,1.4,55.0,34.1,4,6.7,Desconectado,No
+AL0493,37,Maestría,Presencial,Redes sociales,Sí,No,7.7,74.4,55.1,10,7.6,Sobrecargado,No
+AL0338,25,Curso corto,Híbrida,,Sí,No,3.2,67.0,67.3,9,8.6,Sobrecargado,Sí
+AL0237,27,Maestría,En línea,Recomendación,Sí,Sí,7.4,73.0,73.0,16,7.7,Intermitente,No
+AL0208,32,Maestría,En línea,Empresa,Sí,No,1.7,75.8,54.2,12,7.5,Sobrecargado,No
+AL0213,33,Diplomado,En línea,Redes sociales,No,No,13.8,84.0,85.8,19,8.6,Comprometido,No
+AL0296,33,Maestría,En línea,Recomendación,Sí,Sí,0.0,52.5,40.8,0,6.6,Desconectado,Sí
+AL0491,26,Maestría,En línea,Recomendación,Sí,Sí,2.8,71.1,55.2,11,6.9,Sobrecargado,No
+AL0252,29,Curso corto,En línea,Redes sociales,Sí,No,2.0,60.3,18.4,6,5.5,Desconectado,Sí
+AL0094,30,Maestría,En línea,Recomendación,No,No,11.6,68.8,71.5,10,7.6,Intermitente,No
+AL0513,24,Curso corto,En línea,Redes sociales,No,No,15.6,95.5,79.8,24,8.4,Comprometido,No
+AL0304,25,Diplomado,Presencial,Empresa,No,No,7.9,77.8,78.8,12,8.8,Intermitente,Sí
+AL0351,29,Maestría,Híbrida,Sitio web,Sí,No,9.4,85.7,75.4,11,8.2,Intermitente,No
+AL0270,31,Maestría,En línea,Recomendación,No,Sí,8.8,100.0,92.4,23,9.7,Comprometido,No
+AL0202,32,Curso corto,En línea,Sitio web,Sí,No,4.8,47.6,31.1,0,7.0,Desconectado,Sí
+AL0162,30,Maestría,En línea,Recomendación,No,No,0.0,37.4,23.7,4,5.1,Desconectado,Sí
+AL0044,28,Maestría,Híbrida,Sitio web,Sí,No,,89.3,97.5,20,10.0,Comprometido,No
+AL0218,28,Curso corto,Híbrida,Recomendación,Sí,Sí,8.1,93.2,100.0,18,9.7,Comprometido,No
+AL0402,28,Diplomado,En línea,Redes sociales,No,No,3.0,46.3,22.3,0,5.8,Desconectado,Sí
+AL0191,23,Maestría,Presencial,Redes sociales,Sí,No,0.9,50.4,35.4,7,6.8,Desconectado,Sí
+AL0310,32,Diplomado,En línea,Recomendación,Sí,No,11.2,92.0,88.2,19,,Comprometido,No
+AL0260,23,Maestría,En línea,Redes sociales,No,No,8.6,80.9,64.4,20,8.7,Intermitente,No
+AL0106,32,Maestría,Híbrida,Sitio web,Sí,No,2.4,68.5,45.1,12,6.2,Sobrecargado,No
+AL0054,32,Maestría,Híbrida,Sitio web,Sí,Sí,4.7,68.2,58.3,13,7.4,Sobrecargado,No
+AL0390,30,Maestría,En línea,Redes sociales,Sí,No,0.0,47.9,43.7,6,7.7,Desconectado,Sí
+AL0002,23,Diplomado,En línea,Sitio web,No,No,10.4,80.7,67.4,9,7.4,Intermitente,No
+AL0498,26,Diplomado,Presencial,,No,Sí,8.9,72.3,65.4,7,7.8,Intermitente,No
+AL0360,28,Diplomado,Híbrida,Redes sociales,No,No,2.2,80.3,65.5,15,7.7,Intermitente,No
+AL0050,40,Maestría,En línea,Recomendación,Sí,Sí,13.8,100.0,82.2,20,8.5,Comprometido,No
+AL0420,29,Maestría,Híbrida,Sitio web,Sí,No,5.4,38.0,32.1,6,6.4,Desconectado,Sí
+AL0081,31,Curso corto,Presencial,Recomendación,Sí,No,4.9,79.9,52.4,14,7.8,Sobrecargado,Sí
+AL0206,48,Maestría,Híbrida,Sitio web,Sí,No,14.6,85.8,98.7,23,9.3,Comprometido,No
+AL0035,25,Maestría,Híbrida,Recomendación,No,No,8.1,97.6,69.9,15,8.3,Intermitente,No
+AL0431,28,Diplomado,Híbrida,Recomendación,Sí,No,2.2,43.3,43.0,4,6.8,Desconectado,Sí
+AL0264,30,Maestría,Presencial,Redes sociales,No,No,13.9,76.9,89.0,25,8.9,Comprometido,No
+AL0428,31,Diplomado,En línea,Recomendación,Sí,No,3.6,88.6,62.4,10,6.9,Sobrecargado,No
+AL0455,21,Diplomado,Híbrida,Recomendación,No,No,9.1,74.9,100.0,24,9.1,Comprometido,Sí
+AL0508,21,Maestría,En línea,Sitio web,Sí,No,5.7,79.6,66.6,11,7.3,Sobrecargado,Sí
+AL0367,41,Maestría,Híbrida,Sitio web,Sí,No,6.1,70.8,48.4,13,7.4,Sobrecargado,No
+AL0092,21,Diplomado,Híbrida,Recomendación,Sí,Sí,0.9,81.9,47.8,10,7.9,Sobrecargado,Sí
+AL0340,27,Maestría,Presencial,Redes sociales,No,No,6.6,44.7,49.3,2,6.0,Desconectado,Sí
+AL0510,34,Maestría,Híbrida,Empresa,Sí,No,13.9,75.9,93.0,17,8.8,Comprometido,No
+AL0053,24,Curso corto,En línea,Sitio web,Sí,No,5.4,61.1,45.9,11,6.3,Sobrecargado,No
+AL0346,36,Diplomado,Híbrida,Sitio web,Sí,No,4.3,67.0,39.9,7,6.5,Sobrecargado,No
+AL0265,23,Curso corto,Presencial,Recomendación,Sí,No,3.6,54.4,30.9,4,6.7,Desconectado,Sí
+AL0242,27,Maestría,Presencial,Recomendación,Sí,Sí,6.5,78.0,68.1,9,7.1,Sobrecargado,No
+AL0014,39,Maestría,Presencial,,Sí,No,4.2,66.0,54.2,4,7.6,Sobrecargado,No
+AL0316,22,Maestría,En línea,Recomendación,Sí,Sí,10.4,96.3,96.8,21,8.9,Comprometido,No
+AL0089,25,Diplomado,En línea,Recomendación,No,Sí,9.9,86.6,100.0,25,9.0,Comprometido,No
+AL0388,33,Maestría,En línea,Redes sociales,Sí,No,5.1,50.0,29.2,3,7.0,Desconectado,No
+AL0274,21,Diplomado,Híbrida,Redes sociales,Sí,No,,74.8,72.7,14,8.9,Intermitente,No
+AL0167,31,Maestría,Presencial,Redes sociales,Sí,No,0.0,59.0,79.0,11,8.5,Sobrecargado,No
+AL0329,32,Maestría,En línea,Empresa,No,No,6.7,72.1,76.8,15,8.1,Intermitente,No
+AL0091,21,Diplomado,Híbrida,Recomendación,No,No,,99.7,100.0,22,9.1,Comprometido,No
+AL0135,34,Diplomado,En línea,Recomendación,No,No,2.2,73.5,74.5,13,7.4,Intermitente,No
+AL0307,22,Curso corto,Presencial,Redes sociales,No,No,9.7,85.7,49.6,17,,Intermitente,No
+AL0516,21,Maestría,En línea,Redes sociales,No,No,9.4,100.0,95.7,22,10.0,Comprometido,No
+AL0320,30,Curso corto,En línea,Redes sociales,No,No,2.7,69.7,38.9,4,6.4,Desconectado,No
+AL0244,39,Maestría,En línea,Recomendación,No,Sí,4.4,84.4,45.6,5,7.9,Intermitente,No
+AL0055,28,Curso corto,En línea,Redes sociales,Sí,No,9.1,57.3,52.7,11,7.0,Sobrecargado,Sí
+AL0364,21,Maestría,Híbrida,Sitio web,Sí,No,11.9,90.5,98.0,27,9.2,Comprometido,No
+AL0051,30,Maestría,En línea,Recomendación,Sí,No,13.7,92.4,87.4,23,8.9,Comprometido,No
+AL0490,24,Diplomado,En línea,Sitio web,No,No,6.2,94.0,72.1,8,9.8,Intermitente,No
+AL0175,27,Diplomado,Híbrida,Redes sociales,Sí,Sí,8.7,99.0,90.9,27,9.3,Comprometido,No
+AL0446,27,Diplomado,En línea,Sitio web,Sí,No,4.7,77.9,52.1,14,7.4,Sobrecargado,Sí
+AL0190,27,Diplomado,Híbrida,Recomendación,No,Sí,,100.0,92.7,22,9.8,Comprometido,No
+AL0229,29,Maestría,Presencial,Redes sociales,No,Sí,8.9,63.5,78.4,20,6.8,Intermitente,No
+AL0464,21,Maestría,Híbrida,Recomendación,Sí,No,9.5,93.9,96.3,21,,Comprometido,No
+AL0188,21,Diplomado,En línea,Recomendación,Sí,No,14.0,87.3,82.6,17,7.6,Comprometido,No
+AL0476,25,Maestría,En línea,Redes sociales,No,Sí,9.5,90.2,100.0,21,9.0,Comprometido,No
+AL0170,27,Maestría,En línea,Sitio web,Sí,No,0.7,52.9,45.2,11,6.6,Desconectado,Sí
+AL0059,27,Maestría,Híbrida,Sitio web,Sí,No,9.4,100.0,94.4,22,9.2,Comprometido,No
+AL0475,29,Diplomado,Híbrida,Recomendación,No,No,13.5,84.4,91.9,22,8.8,Comprometido,No
+AL0049,28,Maestría,En línea,,Sí,No,1.5,73.6,69.4,7,8.8,Sobrecargado,Sí
+AL0345,27,Curso corto,En línea,Redes sociales,Sí,No,3.8,76.9,61.0,8,7.4,Sobrecargado,No
+AL0236,29,Maestría,En línea,Recomendación,Sí,No,4.7,64.2,71.2,13,7.7,Sobrecargado,Sí
+AL0253,32,Maestría,Híbrida,Redes sociales,Sí,Sí,6.3,89.6,69.9,14,8.9,Intermitente,No
+AL0022,31,Maestría,En línea,Redes sociales,No,No,4.6,70.4,66.1,14,7.4,Intermitente,No
+AL0314,30,Diplomado,En línea,Recomendación,No,Sí,7.6,85.0,67.0,13,8.1,Intermitente,No
+AL0460,32,Maestría,En línea,Recomendación,No,Sí,7.0,74.9,64.7,15,7.3,Intermitente,No
+AL0161,27,Diplomado,En línea,Empresa,No,Sí,11.2,96.3,94.0,18,10.0,Comprometido,No
+AL0277,25,Diplomado,Presencial,Empresa,No,Sí,12.5,99.8,87.4,22,10.0,Comprometido,No
+AL0444,28,Maestría,En línea,Redes sociales,No,No,13.2,86.2,92.3,25,9.2,Comprometido,No
+AL0192,28,Maestría,En línea,Sitio web,No,No,12.8,100.0,91.1,19,9.8,Comprometido,No
+AL0386,34,Diplomado,En línea,Recomendación,Sí,No,0.0,43.4,34.4,6,6.1,Desconectado,Sí
+AL0294,24,Maestría,En línea,Sitio web,Sí,No,13.3,87.6,80.8,22,8.0,Comprometido,No
+AL0414,25,Maestría,En línea,Recomendación,Sí,No,3.4,41.1,17.2,5,5.5,Desconectado,Sí
+AL0492,29,Curso corto,Presencial,Recomendación,Sí,No,9.2,78.5,83.1,8,,Intermitente,Sí
+AL0344,29,Diplomado,Presencial,Recomendación,No,Sí,11.4,64.1,65.4,14,6.8,Intermitente,No
+AL0309,39,Diplomado,Presencial,Sitio web,Sí,No,8.9,80.3,80.8,21,8.5,Comprometido,No
+AL0131,21,Diplomado,Híbrida,Recomendación,Sí,No,6.0,100.0,85.0,24,9.0,Comprometido,No
+AL0100,35,Maestría,Presencial,Recomendación,No,Sí,2.6,50.8,35.1,6,5.3,Desconectado,No
+AL0373,27,Maestría,En línea,Recomendación,Sí,Sí,4.5,89.8,75.1,16,9.0,Intermitente,Sí
+AL0088,23,Maestría,Híbrida,Sitio web,No,Sí,4.1,67.2,46.6,10,6.8,Intermitente,Sí
+AL0459,31,Diplomado,Híbrida,Recomendación,Sí,Sí,9.6,58.3,59.1,14,7.2,Sobrecargado,Sí
+AL0331,34,Maestría,Híbrida,Redes sociales,Sí,No,0.0,69.1,62.4,10,7.9,Sobrecargado,Sí
+AL0215,30,Maestría,En línea,Recomendación,Sí,No,4.0,70.7,54.3,13,7.1,Sobrecargado,No
+AL0467,39,Curso corto,Híbrida,Empresa,No,No,3.6,71.5,81.2,15,8.0,Intermitente,No
+AL0122,38,Maestría,Híbrida,Recomendación,Sí,No,5.9,91.8,93.9,19,9.6,Intermitente,No
+AL0021,22,Curso corto,Híbrida,Sitio web,Sí,No,8.1,75.4,58.5,7,8.3,Sobrecargado,No
+AL0072,35,Maestría,Presencial,Redes sociales,No,No,3.4,73.2,72.9,13,7.4,Intermitente,No
+AL0107,27,Diplomado,En línea,Sitio web,Sí,No,8.4,75.8,70.5,17,8.1,Intermitente,No
+AL0271,30,Maestría,En línea,Redes sociales,Sí,Sí,16.2,99.6,100.0,25,10.0,Comprometido,No
+AL0436,32,Diplomado,Híbrida,Redes sociales,Sí,Sí,12.8,100.0,78.6,25,9.5,Comprometido,No
+AL0103,36,Curso corto,Híbrida,Recomendación,No,No,10.6,93.0,97.0,19,9.1,Comprometido,No
