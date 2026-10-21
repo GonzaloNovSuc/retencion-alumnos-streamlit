@@ -19,6 +19,35 @@ MENSAJES = {
 }
 
 
+def _error_por_subgrupo(d: pd.DataFrame) -> pd.DataFrame:
+    """
+    Calcula, para cada subgrupo, qué tan bien acierta el modelo.
+    `d` debe traer prob_abandono (fuera de muestra) y la columna real `abandono`.
+    """
+    d = d.copy()
+    d["real"] = d["abandono"] == "Sí"             # lo que ocurrió
+    d["predicho"] = d["prob_abandono"] >= 0.50    # lo que el modelo marcó como riesgo
+    d["acierto"] = d["real"] == d["predicho"]
+    # Rangos de edad para poder agrupar la variable numérica
+    d["rango_edad"] = pd.cut(d["edad"], [0, 27, 33, 120],
+                             labels=["27 o menos", "28 a 33", "34 o más"])
+
+    filas = []
+    for variable in ["trabaja", "beca", "rango_edad"]:
+        for valor, g in d.groupby(variable, observed=True):
+            abandonaron = g[g["real"]]              # solo quienes sí abandonaron
+            filas.append({
+                "variable": variable,
+                "grupo": str(valor),
+                "alumnos": len(g),
+                "abandono_real": g["real"].mean(),
+                "exactitud": g["acierto"].mean(),
+                # de los que abandonaron, ¿cuántos había marcado el modelo?
+                "abandonos_detectados": abandonaron["predicho"].mean() if len(abandonaron) else float("nan"),
+            })
+    return pd.DataFrame(filas)
+
+
 def mostrar(df: pd.DataFrame):
     st.header("6. Toma de decisiones")
     st.markdown("**Pregunta:** ¿Qué mensaje deberíamos mostrarle a cada tipo de alumno?")
@@ -57,6 +86,31 @@ def mostrar(df: pd.DataFrame):
         "días al mes.\n"
         f"- Las variables que más pesan en el modelo son: {', '.join(top_vars)}; "
         "la acción busca mover justo esos hábitos."
+    )
+
+    # ------------------------------------------------------------------
+    # Equidad: ¿el modelo falla más con algún grupo? (idea surgida de la
+    # revisión de una compañera: "evaluar el error por subgrupo")
+    # ------------------------------------------------------------------
+    st.divider()
+    st.subheader("¿El modelo falla más con algún grupo?")
+    st.caption(
+        "Se compara la predicción (riesgo ≥ 50 % = 'abandonará') con lo que realmente "
+        "ocurrió, separando por características que podrían generar sesgo."
+    )
+    tabla_equidad = _error_por_subgrupo(d)
+    st.dataframe(
+        tabla_equidad.style.format({
+            "abandono_real": "{:.1%}", "exactitud": "{:.1%}", "abandonos_detectados": "{:.1%}",
+        }),
+        width="stretch", hide_index=True,
+    )
+    st.info(
+        "**Cómo leerla:** 'exactitud' es el % de alumnos bien clasificados y "
+        "'abandonos_detectados' es, de quienes sí abandonaron, cuántos el modelo había "
+        "marcado como riesgo. Una diferencia grande entre grupos indicaría que el modelo "
+        "protege a unos y deja sin ver a otros. Con muestras pequeñas, la diferencia "
+        "puede ser azar."
     )
 
     # ------------------------------------------------------------------
